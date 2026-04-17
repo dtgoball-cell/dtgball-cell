@@ -1,6 +1,6 @@
 # 👋 Hola, soy Diego Tomás Garay Orellana
 
-💻 **Desarrollador en formación | Tecnología | Automatización**
+💻 **Desarrollador en formación | Tecnología | Automatización**  
 🚀 En constante aprendizaje y mejora
 
 ---
@@ -31,17 +31,15 @@
 
 ## 📂 Proyectos destacados
 
-* 🏋️ Sistema de reservas para gimnasio (consola)
+### 🏋️ Sistema de reservas para gimnasio
+[Ver repositorio →](https://github.com/dtgball-cell/sistema-gimnasio)
 
-  * Registro de usuarios y administradores
-  * Gestión de clases, cupos y horarios
-  * Panel de administración completo
+> Registro de usuarios y administradores | Gestión de clases, cupos y horarios | Panel de administración completo
 
-* 💰 Sistema de gestión de gastos
+### 💰 Sistema de gestión de gastos
+[Ver repositorio →](https://github.com/dtgball-cell/sistema-gastos)
 
-  * Control de ingresos y egresos
-  * Reportes básicos
-  * Menú interactivo
+> Control de ingresos y egresos | Reportes básicos | Menú interactivo
 
 ---
 
